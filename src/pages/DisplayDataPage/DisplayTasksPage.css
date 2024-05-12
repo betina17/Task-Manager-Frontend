@@ -1,0 +1,23 @@
+.main-page-container {
+    height: 100%;
+    flex: 1;
+    
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.tasks-list {
+    flex: 1;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav {
+    margin: 10px;
+}
+
